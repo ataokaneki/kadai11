@@ -1,3 +1,3 @@
-package src.kadai1;
+package kadai1;
 
 public class Wizard extends Character{}

@@ -1,4 +1,4 @@
-package src.kadai1;
+package kadai1;
 
 public abstract class Character {
     String name;
