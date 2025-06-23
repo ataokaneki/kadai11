@@ -1,12 +1,9 @@
 package kadai2;
-
 public class Main {
     public static void main(String[] args) {
         // 1. 勇者と魔法使いを生成
-        Hero h = new Hero();
-        h.name = "ミナト";
-        Wizard w = new Wizard();
-        w.name = "アサカ";
+        Hero h = new Hero("ミナト");
+        Wizard w = new Wizard("アサカ");
 
         // 2. お化けキノコを2匹生成
         Matango m1 = new Matango('A');
