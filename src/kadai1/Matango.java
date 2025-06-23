@@ -1,4 +1,4 @@
-package kadai2;
+package kadai1;
 public class Matango {
     int hp = 50;
     char suffix;
